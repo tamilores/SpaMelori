@@ -1,0 +1,54 @@
+body {
+  font-family: "PT Serif", serif;
+  color: #583B1F;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 17px;
+}
+
+.navbar {
+    font-size: 16px;
+    padding: 20px;
+    text-align: right;
+}
+
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.myButton {
+    background-color: #583B1F;
+    color: #E5E0DA;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 15px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.title {
+  font-family: "PT Serif", serif;
+  font-size: 50px;
+  color: #7E7B46;
+  padding-bottom: 20px;
+}
+
+.about-us-pics {
+  border-radius: 30px;
+}
+
+.left-section {
+    width: 50%;
+    float:left;
+    text-align: left;
+    padding-top: 150px;
+}
+
+.right-section {
+    width:50%;
+    float:right;
+    text-align: right;
+    padding-top: 40px;
+}
